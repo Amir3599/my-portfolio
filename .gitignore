@@ -1,7 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
+node_modules
 /.pnp
 .pnp.js
 
@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+backend_sanity/node_modules/.bin/autoprefixer-info.cmd
+backend_sanity/node_modules/.bin/browserslist
+backend_sanity/node_modules/.bin/browserslist.cmd
+backend_sanity/node_modules/.bin/crc32
+backend_sanity/node_modules/.bin/crc32.cmd
+backend_sanity/node_modules/.bin/cssesc
+backend_sanity/node_modules/.bin/
