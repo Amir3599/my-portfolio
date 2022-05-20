@@ -6,7 +6,7 @@ import { Navbar } from './components';
 function App() {
   return (
     <div>
-      {/* <Navbar /> */}
+      <Navbar />
       <Header />
       <About />
       <Work />
